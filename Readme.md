@@ -2,7 +2,7 @@
 
 **MyDB Manager** is a powerful, user-friendly desktop application that bridges the gap between natural language and database management. By integrating Google's advanced Gemini AI models, it allows users to interact with SQLite databases using plain English, eliminating the need to write complex SQL queries manually.
 
-# Download link :- https://drive.google.com/file/d/19s4-tFxYtmgsQ1T3CrUPOEERKBAUCUOW/view?usp=sharing
+### Download link :- https://drive.google.com/file/d/19s4-tFxYtmgsQ1T3CrUPOEERKBAUCUOW/view?usp=sharing
 
 ## 🚀 Features
 
