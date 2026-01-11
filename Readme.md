@@ -4,6 +4,13 @@
 
 ### Download link :- https://drive.google.com/file/d/19s4-tFxYtmgsQ1T3CrUPOEERKBAUCUOW/view?usp=sharing
 
+
+## Video :
+
+<video src="https://github.com/user-attachments/assets/19fa1df5-3726-4d67-8c9f-de156f15c373">
+</video>
+
+
 ## 🚀 Features
 
 - **🤖 AI Query Generation**: Describe what you need in natural language, and the application generates the corresponding SQL query using Google Gemini (supports models like Gemini 2.5 Flash, Pro, and more).
