@@ -2,7 +2,7 @@
 
 **MyDB Manager** is a powerful, user-friendly desktop application that bridges the gap between natural language and database management. By integrating Google's advanced Gemini AI models, it allows users to interact with SQLite databases using plain English, eliminating the need to write complex SQL queries manually.
 
-### Download link :- https://drive.google.com/file/d/19s4-tFxYtmgsQ1T3CrUPOEERKBAUCUOW/view?usp=sharing
+**Download link** :- https://drive.google.com/file/d/19s4-tFxYtmgsQ1T3CrUPOEERKBAUCUOW/view?usp=sharing
 
 
 ## Video :
@@ -11,21 +11,21 @@
 </video>
 
 
-## 🚀 Features
+## Features
 
-- **🤖 AI Query Generation**: Describe what you need in natural language, and the application generates the corresponding SQL query using Google Gemini (supports models like Gemini 2.5 Flash, Pro, and more).
-- **🔍 Smart Database Scanning**: Automatically detects SQLite databases (`.db`, `.sqlite`, `.sqlite3`) on your system or within specific folders.
-- **⚡ Interactive Query Execution**: Execute generated queries safely and view results in a dynamic, scrollable grid.
-- **📋 Table Inspector**: Browse database schemas and view table contents instantly.
-- **💾 Data Export**: Export query results to CSV format for reporting or external analysis.
-- **🎨 Modern Interface**: Built with CustomTkinter for a sleek look, featuring toggleable **Light** and **Dark** themes.
-- **🔐 Secure Configuration**: Locally stores API keys and user preferences.
+- **AI Query Generation**: Describe what you need in natural language, and the application generates the corresponding SQL query using Google Gemini (supports models like Gemini 2.5 Flash, Pro, and more).
+- **Smart Database Scanning**: Automatically detects SQLite databases (`.db`, `.sqlite`, `.sqlite3`) on your system or within specific folders.
+- **Interactive Query Execution**: Execute generated queries safely and view results in a dynamic, scrollable grid.
+- **Table Inspector**: Browse database schemas and view table contents instantly.
+- **Data Export**: Export query results to CSV format for reporting or external analysis.
+- **Modern Interface**: Built with CustomTkinter for a sleek look, featuring toggleable **Light** and **Dark** themes.
+- **Secure Configuration**: Locally stores API keys and user preferences.
 
-## 📋 Prerequisites
+## Prerequisites
 
 Ensure you have **Python 3.8** or higher installed on your system. You will also need a Google Gemini API key.
 
-## 🛠️ Installation
+## Installation
 
 1.  **Clone the repository** or download the source code to your local machine.
 2.  **Install required dependencies** using pip:
@@ -34,7 +34,7 @@ Ensure you have **Python 3.8** or higher installed on your system. You will also
     pip install customtkinter google-generativeai
     ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1.  **Launch the Application**:
     Navigate to the project folder and run the main interface script:
@@ -59,7 +59,7 @@ Ensure you have **Python 3.8** or higher installed on your system. You will also
     - Click **Generate SQL Query**.
     - Review the generated SQL output, then click **Execute SQL Query** to see the results.
 
-## 📂 Project Structure
+## Project Structure
 
 | File                | Description                                                            |
 | :------------------ | :--------------------------------------------------------------------- |
