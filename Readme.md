@@ -70,20 +70,3 @@ Ensure you have **Python 3.8** or higher installed on your system. You will also
 | `DB_operation.py`   | Manages SQLite database connections and execution.                     |
 | `searching.py`      | Utility for recursive file system scanning.                            |
 | `config_manager.py` | Handles loading and saving of configuration settings.                  |
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue for bugs and feature requests.
-
-## 👨‍💻 Developer Team
-
-- **Developer**: Ajinkya Ghode
-- **Contact**: ajinkyaghode85@gmail.com
-
-## 📄 License
-
-This project is open-source and available for personal and educational use.
-
----
-
-_Built with Python, CustomTkinter, and Google Gemini._
