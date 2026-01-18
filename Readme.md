@@ -71,4 +71,4 @@ Ensure you have **Python 3.8** or higher installed on your system. You will also
 | `searching.py`      | Utility for recursive file system scanning.                            |
 | `config_manager.py` | Handles loading and saving of configuration settings.                  |
 
-You can contribute to it by creating new branch and raising PR to merge.
+## You can contribute to it by creating new branch and raising PR to merge.
